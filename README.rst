@@ -23,8 +23,8 @@ djangorestframework.
 Requirements
 ------------
 
-- Python (3.6, 3.7, 3.8)
-- Django (2.2, 3.0), Django REST Framework (3.10.x, 3.11.x)
+- Python (3.6, 3.7, 3.8, 3.9)
+- Django (2.2, 3.0, 3.2), Django REST Framework (3.10.x, 3.11.x, 3.12.x)
 - gRPC, gRPC tools, proto3
 
 
